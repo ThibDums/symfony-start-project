@@ -12,3 +12,4 @@
 2. `php bin/console assets:install`
 3. `php bin/console cache:clear`
 4. `php bin/console server:run`
+5. Visit `http://localhost:8000` and `http://localhost:8000/admin` for the Sonata admin bundle.
